@@ -1,0 +1,21 @@
+// global shit like colors, font size, padding, etc
+
+$black: #343434;
+$blacker: #000000;
+$white: #f9fafc;
+$font: Helvetica, sans-serif;
+
+
+
+
+body {
+  font-size: 1.6rem;
+  outline: 1px red solid;
+
+  p  {
+    line-height: 20px;
+    padding: 20px;
+    color: $white;
+    font: $font;
+     }
+}
